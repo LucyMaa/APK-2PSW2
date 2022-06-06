@@ -1,4 +1,4 @@
-# SW2
+# SW2 Flutter
 
 A new Flutter project.
 
